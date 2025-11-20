@@ -1,6 +1,7 @@
 // This is the URL for your Vercel backend
 const API_ENDPOINT = 'https://vercel-origin-engine.vercel.app/api/check_domain';
-const WORKER_ENDPOINT = 'https://my-worker.workers.dev';
+const WORKER_ENDPOINT = '
+quiet-surf-fb24.athenadancerpoet.workers.dev';
 
 const ui = {
   urlText: document.getElementById('url'),
